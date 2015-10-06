@@ -1,2 +1,1 @@
 # decotest
-hoge
